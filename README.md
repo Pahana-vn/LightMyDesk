@@ -1,7 +1,5 @@
 "LightMyDesk brings you smart and effective lighting solutions for study and work spaces. With a diverse collection of desk lamps, we are committed to providing quality products and designs. Sophisticated design, helps enhance productivity and concentration in work and study. With a focus on the needs of pupils, students and home learning platform lovers, LightMyDesk offers a choice perfect for home workspaces, offices and online learning spaces. Explore our collection today to make your workspace brighter and more productive !”
 
-Hopefully this description will help your website attract more customers.
-
 =======================================
 
 Supervisor : Phạm Công Danh
