@@ -1,4 +1,4 @@
-LightMyDesk
+LightMyDesk is a commercial website that mainly sells desk lamps and study lamps for students
 
 =======================================
 
