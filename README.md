@@ -24,7 +24,7 @@ Documentations : https://github.com/Pahana-vn/LightMyDesk_Group02/tree/main/docu
 
 Link demo video LightMyDesk: https://www.youtube.com/watch?v=M4fpT4XII7g
 
-Link database: https://github.com/Pahana-vn/LightMyDesk_Group02/blob/main/lightmydesk4.sql
+Link database: https://github.com/Pahana-vn/LightMyDesk-Group02/blob/main/lightmydesk4.sql
 
 =======================================
 
