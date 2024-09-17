@@ -20,7 +20,7 @@ Ngô Tấn Phúc (Student1441819)
 
 =======================================
 
-Documentations : https://github.com/Pahana-vn/LightMyDesk_Group02/tree/main/document
+Documentations : https://github.com/Pahana-vn/LightMyDesk/tree/main/Document
 
 Link demo video LightMyDesk: https://www.youtube.com/watch?v=M4fpT4XII7g
 
